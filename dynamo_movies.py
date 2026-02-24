@@ -1,5 +1,6 @@
 # Lab 8 - Mikayla Froemming
 # Version 2
+# This is a part of my Data Analytics major
 # CS178 - Lab 8 Starter
 
 REGION = "us-east-1"
